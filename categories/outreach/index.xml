@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Outreach on Advocates for a Nuclear Tomorrow</title>
+    <link>/categories/outreach/</link>
+    <description>Recent content in Outreach on Advocates for a Nuclear Tomorrow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Nov 2023 11:10:36 +0800</lastBuildDate>
+    <atom:link href="/categories/outreach/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our First College Outreach</title>
+      <link>/posts/blog-post-1/</link>
+      <pubDate>Tue, 28 Nov 2023 11:10:36 +0800</pubDate>
+      <guid>/posts/blog-post-1/</guid>
+      <description>We&amp;rsquo;ve collaborating with colleges, hosting sessions to educate students and faculty about nuclear technology&amp;rsquo;s role in a sustainable energy future. Our aim was to recruit supporters and inspire future leaders to champion nuclear power as a key part of clean energy solutions.</description>
+    </item>
+    <item>
+      <title>Going Grass Roots</title>
+      <link>/posts/news-post-2/</link>
+      <pubDate>Sun, 15 Oct 2023 11:10:36 +0800</pubDate>
+      <guid>/posts/news-post-2/</guid>
+      <description>We&amp;rsquo;ve engaged local communities to promote nuclear energy, educating them and empowering grassroots groups to advocate for greener energy and more plants. Sessions with energy experts further equipped these groups to champion a sustainable future in their areas.</description>
+    </item>
+  </channel>
+</rss>
