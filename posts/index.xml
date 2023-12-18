@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Advocates for a Nuclear Tomorrow</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Advocates for a Nuclear Tomorrow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Nov 2023 11:10:36 +0800</lastBuildDate>
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our First College Outreach</title>
+      <link>/posts/blog-post-1/</link>
+      <pubDate>Tue, 28 Nov 2023 11:10:36 +0800</pubDate>
+      <guid>/posts/blog-post-1/</guid>
+      <description>We&amp;rsquo;ve collaborating with colleges, hosting sessions to educate students and faculty about nuclear technology&amp;rsquo;s role in a sustainable energy future. Our aim was to recruit supporters and inspire future leaders to champion nuclear power as a key part of clean energy solutions.</description>
+    </item>
+    <item>
+      <title>Getting Funding</title>
+      <link>/posts/news-post-1/</link>
+      <pubDate>Fri, 03 Nov 2023 11:10:36 +0800</pubDate>
+      <guid>/posts/news-post-1/</guid>
+      <description>Success! Our outreach connected us with the Breakthrough Energy Coalition, gaining support for nuclear energy in a sustainable future. Collaboration is key, and we&amp;rsquo;re grateful for our partners&amp;rsquo; support as we drive our mission forward.</description>
+    </item>
+    <item>
+      <title>Going Grass Roots</title>
+      <link>/posts/news-post-2/</link>
+      <pubDate>Sun, 15 Oct 2023 11:10:36 +0800</pubDate>
+      <guid>/posts/news-post-2/</guid>
+      <description>We&amp;rsquo;ve engaged local communities to promote nuclear energy, educating them and empowering grassroots groups to advocate for greener energy and more plants. Sessions with energy experts further equipped these groups to champion a sustainable future in their areas.</description>
+    </item>
+    <item>
+      <title>News Post 4</title>
+      <link>/posts/news-post-4/</link>
+      <pubDate>Fri, 18 Mar 2022 11:10:36 +0800</pubDate>
+      <guid>/posts/news-post-4/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>News Post 5</title>
+      <link>/posts/news-post-5/</link>
+      <pubDate>Fri, 18 Mar 2022 11:10:36 +0800</pubDate>
+      <guid>/posts/news-post-5/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>News Post 6</title>
+      <link>/posts/news-post-6/</link>
+      <pubDate>Fri, 18 Mar 2022 11:10:36 +0800</pubDate>
+      <guid>/posts/news-post-6/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blog Post 2</title>
+      <link>/posts/blog-post-2/</link>
+      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+      <guid>/posts/blog-post-2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+    </item>
+    <item>
+      <title>Blog Post 3</title>
+      <link>/posts/blog-post-3/</link>
+      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+      <guid>/posts/blog-post-3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+    </item>
+    <item>
+      <title>Blog Post 4</title>
+      <link>/posts/blog-post-4/</link>
+      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+      <guid>/posts/blog-post-4/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+    </item>
+    <item>
+      <title>Blog Post 5</title>
+      <link>/posts/blog-post-5/</link>
+      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+      <guid>/posts/blog-post-5/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+    </item>
+    <item>
+      <title>Blog Post 6</title>
+      <link>/posts/blog-post-6/</link>
+      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+      <guid>/posts/blog-post-6/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+    </item>
+    <item>
+      <title>News Post 3</title>
+      <link>/posts/news-post-3/</link>
+      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+      <guid>/posts/news-post-3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+    </item>
+  </channel>
+</rss>
